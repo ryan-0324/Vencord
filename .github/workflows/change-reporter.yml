@@ -7,7 +7,7 @@ on:
 
 jobs:
     change-reporter:
-        if: github.repository == 'ryan/0324'
+        if: github.repository == 'ryan-0324/Vencord'
         runs-on: ubuntu-latest
 
         steps:
